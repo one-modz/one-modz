@@ -26,16 +26,6 @@
 
 ---
 
-<div align="center">
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=0NEM0DZ&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_radius=15&bg_color=0d1117&title_color=8A2BE2&icon_color=8A2BE2&text_color=ffffff"/>
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0NEM0DZ&layout=compact&langs_count=8&theme=radical&border_radius=15&bg_color=0d1117&title_color=8A2BE2&text_color=ffffff"/>
-
-</div>
-
----
-
 ## 💻 Tecnologias
 
 <p align="center">
