@@ -38,23 +38,15 @@
 
 ## 💻 Tecnologias
 
-<div align="center">
-
-  <img align="center" alt="JavaScript" height="55" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-
-  <img align="center" alt="HTML5" height="55" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-
-  <img align="center" alt="CSS3" height="55" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-
-  <img align="center" alt="Python" height="55" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-
-  <img align="center" alt="NodeJS" height="55" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-
-  <img align="center" alt="Git" height="55" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-
-  <img align="center" alt="VS Code" height="55" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-
-</div>
+<p align="center">
+  <img alt="JavaScript" height="55" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+  <img alt="HTML5" height="55" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+  <img alt="CSS3" height="55" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
+  <img alt="Python" height="55" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+  <img alt="NodeJS" height="55" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
+  <img alt="Git" height="55" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+  <img alt="VS Code" height="55" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
+</p>
 
 ---
 
@@ -64,7 +56,7 @@
 const onemodz = {
   nome: "ONE MODZ",
   foco: "Desenvolvimento Web & Softwares",
-  linguagens: ["JavaScript", "Python", "HTML", "CSS"],
+  linguagens: ["JavaScript", "Lua", "Cleo"],
   ferramentas: ["Node.js", "Discord.js", "Git", "VS Code"],
   projetos: ["Bots Discord", "Sites", "Sistemas", "Automação"]
 }
